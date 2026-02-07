@@ -3,3 +3,19 @@ body {
     color: white;
     font-family: 'Courier New', Courier, monospace;
 }
+
+a {
+    color:chocolate
+}
+
+a:active {
+    color:coral
+}
+
+a:hover {
+    color:orange
+}
+
+a:visited {
+    color:rgb(210, 101, 0)
+}
